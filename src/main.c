@@ -23,7 +23,7 @@ int main(void) {
   }
 
   // construct output containers
-  // 
+  //
   TA_Real out[N];
   int outBeg = 0;
   int outNbElement = 0;
