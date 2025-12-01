@@ -1,0 +1,10 @@
+{
+  "clangd.arguments": [
+    "--enable-config"
+  ],
+  "clangd.fallbackFlags": [
+    "-I${workspaceFolder}/include",
+    "-I${workspaceFolder}/lib/include",
+    "-I${workspaceFolder}/lib/include/ta-lib"
+  ]
+}
